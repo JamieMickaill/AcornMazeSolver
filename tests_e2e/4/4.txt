@@ -1,0 +1,1 @@
+Simple teleport use and teleport wait-turn success
